@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme{
+  --breakpoint-*: initial;  /*for mobile screen sizes */
+  --breakpoint-tablet:768px; /*for tablet screen sizes */
+  --breakpoint-desktop:1024px; /*for desktop screen sizes */
+  /* --font-"inter", sans-serif; */
+}
+
